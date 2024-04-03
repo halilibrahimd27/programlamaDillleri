@@ -9,8 +9,6 @@ public class Odev2 {
 
     public static void main(String[] args) {
     	
-    	Fonksiyonlar test = new Fonksiyonlar(7);
-    	
         Scanner sc = new Scanner(System.in);
         System.out.print("Dosya adını girin: ");
         String dosyaAdi = sc.nextLine();
